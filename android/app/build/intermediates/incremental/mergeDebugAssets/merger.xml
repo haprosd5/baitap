@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":react-native-webview"><source path="D:\GITHUB\appdoc\node_modules\react-native-webview\android\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="D:\GITHUB\appdoc\android\app\src\main\assets"/><source path="D:\GITHUB\appdoc\android\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\GITHUB\appdoc\android\app\src\debug\assets"/></dataSet></merger>
